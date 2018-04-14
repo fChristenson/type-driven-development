@@ -15,7 +15,7 @@ look before anything happens.
 He would then go to the end of the program and create a type that represented what state
 the program should be in once everything is done.
 
-Once that was done he would backtrack trough the program until he reached the starting state,
+Once that was done he would backtrack through the program until he reached the starting state,
 implementing each step in the same manner.
 
 Instead of writing top down and in steps like most people and how a program is executed,
