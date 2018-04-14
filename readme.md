@@ -9,7 +9,7 @@
 
 The other day my coworker told me a story about a teacher he had in his university days.
 
-This teacher would start by creating a type the represented how the program state would
+This teacher would start by creating a type that represented how the program state would
 look before anything happens.
 
 He would then go to the end of the program and create a type that represented what state
